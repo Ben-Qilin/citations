@@ -28,7 +28,7 @@ class Citation {
   const citationContentElement = document.querySelector('.citation-content');
   const citationAuthorElement = document.querySelector('.citation-author');
   const nextButton = document.querySelector('.citation-next');
-  citationContainer = document.querySelector('.citation-container')
+  citationContainer = document.querySelector('.citation-container');
   let currentIndex = 0;
   
   // Fonction pour afficher la citation correspondante
